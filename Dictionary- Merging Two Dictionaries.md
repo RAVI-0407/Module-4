@@ -12,16 +12,11 @@ To write a Python program that merges **two dictionaries** and combines their ke
 ## 🧾 Program
 
 ```
-dict1 = {'Ten': 10, 'Twenty': 20, 'Thirty': 30}
-dict2 = {'Thirty': 30, 'Fourty': 40, 'Fifty': 50}
-dict3=dict1.copy()
-dict3.update(dict2)
-print(dict3)
+
 ```
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/1bc1fbca-7e8f-46f1-b0b6-63e5e79fbd1a)
 
 ## Result
 
